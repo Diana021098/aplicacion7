@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
 xmlns:gap = "http://phonegap.com/ns/1.0"
-id = "com.phonegap.example5"
+id = "com.phonegap.example7"
 versionCode = "10"
 version = "1.0.0">
 
 <!-- versionCode is optional and Android only -->
 
-<name>Aplicacion Cinco DIADELATIERRA</name>
+<name>Aplicacion Siete BATALLA5DEMAYO</name>
 
 <description>
-Aplicacion que muestra los DATOS DE LA TIERRA
+Aplicacion que muestra los DATOS DE LA BATALLA DEL 5 DE MAYO
 </description>
 
 <preference name ="phonegap-version" value="3.1.0" />
